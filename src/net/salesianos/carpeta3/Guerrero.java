@@ -1,4 +1,5 @@
 package net.salesianos.carpeta3;
+import net.salesianos.carpeta1.Personaje;
 
 public class Guerrero extends Personaje {
 
