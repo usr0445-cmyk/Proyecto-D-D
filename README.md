@@ -1,2 +1,2 @@
 # Proyecto-D-D
-Proyecto de práctica para aprender Git usando un proyecto de D&D
+Práctica para aprender a usar Git
