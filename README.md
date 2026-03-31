@@ -1,2 +1,3 @@
 # Proyecto-D-D
 Práctica para aprender a usar Git
+Este proyecto consiste en crear varias clases en Java aplicando herencia y métodos específicos para cada tipo de personaje. Para organizar el trabajo correctamente, se usaron ramas de Git: una para Personaje, otra para Guerrero, otra para Mago y otra para la clase ejecutable App. Cada clase se desarrolló en su propia rama, se hicieron los commits correspondientes y luego se fueron integrando todas en la rama feature. Cuando el proyecto estuvo completo y funcionando, se realizó un merge final desde feature hacia main. Finalmente, el repositorio se subió a GitHub y se entregó el enlace como pide la práctica.
